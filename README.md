@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iDisk
 - 👀 I’m interested in droid development and security coding
 - 🌱 I’m currently learning Q#
-- 💞️ I’m looking to collaborate on Molitary and medical 
+- 💞️ I’m looking to collaborate on Military and medical 
 - 📫 How to reach me ...
 
 <!---
